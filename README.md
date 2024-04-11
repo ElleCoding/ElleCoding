@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ElleCoding
 -  😄 Pronouns: She/They 
 - 👀 I like Data Science, ML, and AI — all done as inclusively and ethically as possible
-- 💞️ Let's collaborate on DS, ML or AI projects
 - 📫 Reach me on Telegram: @ElleCoding
 
 <!---
