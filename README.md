@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ElleCoding
 - 😄 Pronouns: She/They 
-- 👀 I like Data Science, Machine Learning, and AI — all done as inclusively and ethically as possible.
+- 👀 I like Data Science and Machine Learning — all done as inclusively and ethically as possible.
+- 📫 Contact: coding.elle@gmail.com
 
 <!---
 ElleCoding/ElleCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
