@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElleCoding
+- 👋 Hi, I’m Elle
 - 😄 I like Data Science and Machine Learning — all done as inclusively and ethically as possible.
 - 📫 Contact: coding.elle@gmail.com
 
