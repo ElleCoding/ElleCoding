@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elle
-- 😄 I like Data Science and Machine Learning — all done as inclusively and ethically as possible.
+- 😄 I like Data Science and Machine Learning. I also like gardening, reading, and dancing ballet.
 - 📫 Contact: coding.elle@gmail.com
 
 <!---
