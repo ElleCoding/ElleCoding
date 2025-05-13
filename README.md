@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elle
-- 😄 I like Data Science and Machine Learning. I also like traveling, reading, and doing aerial silks.
+- 😄 I like Data Science and Machine Learning.
 - 📫 Contact: coding.elle@gmail.com
 
 <!---
