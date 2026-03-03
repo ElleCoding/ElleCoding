@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elle
 - 😄 I like Data Science and Machine Learning.
-- 📫 Contact: coding.elle@gmail.com
+- 📫 Contact: coding.elle@gmail.com / linkedin.com/in/anaelle-s/
 
 <!---
 ElleCoding/ElleCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
